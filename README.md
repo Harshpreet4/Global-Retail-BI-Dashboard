@@ -31,7 +31,7 @@ The data model follows a **star schema** design with:
 - **Fact Tables:** Sales, Sales in USD, Purchases
 - **Dimension Tables:** Countries, Calendar, Exchange Rate
 
-![Data Model](Global-Retail-Dashboard/Screenshots/Data_Model.png)
+![Data Model](Global-Retail-BI-Dashboard/Screenshots/Data_Model.png)
 
 ---
 
@@ -101,13 +101,13 @@ Key measures developed:
 ## 📊 Dashboard Pages
 
 ### Sales Overview
-![Sales Dashboard](Global-Retail-Dashboard/Screenshots/Sales_Overview.png)
+![Sales Dashboard](Global-Retail-BI-Dashboard/Screenshots/Sales_Overview.png)
 
 ### Profit Overview
-![Profit Dashboard](Global-Retail-Dashboard/Screenshots/Profit_Overview.png)
+![Profit Dashboard](Global-Retail-BI-Dashboard/Screenshots/Profit_Overview.png)
 
 ### Insights & Recommendation 
-![Insights and Recommendations Dashboard](Global-Retail-Dashboard/Screenshots/Insights&Recommendations.png)
+![Insights and Recommendations Dashboard](Global-Retail-BI-Dashboard/Screenshots/Insights&Recommendations.png)
 
 ---
 
